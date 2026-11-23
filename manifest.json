@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "source": {
+    "repository": "WHIZENx/pokemon-assets",
+    "commit": "711b015f64d57ba19abf15ec458737154f3ebf25"
+  },
+  "generatedAt": "2026-11-23T10:17:52+07:00",
+  "sections": [
+    {
+      "path": "icon",
+      "files": 2632,
+      "bytes": 1607306,
+      "sha256": "3a1cebed204e16a355af58b4e7de73c83feed146ac11287d7c17d8ae2bb51f0e"
+    },
+    {
+      "path": "pokemon-animation/all",
+      "files": 4955,
+      "bytes": 750176767,
+      "sha256": "94df4650b5aa697e077d88942b2d4f687bb7c3853246535a8f919ccdf744897a"
+    }
+  ]
+}
